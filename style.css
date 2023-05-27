@@ -148,18 +148,18 @@ button:hover {
 
     h1 {
         width: 200%;
-        font-size: 30px;
+        font-size: 1.875rem;
     }
 
     p {
         width: 260%;
-        font-size: 18px;
+        font-size: 1.125rem;
         line-height: 25px;
     }
 
     button {
         height: 50px;
-        font-size: 20px;
+        font-size: 1.25rem;
     }
 
 }
